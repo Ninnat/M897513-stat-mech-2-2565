@@ -24,9 +24,9 @@
 
 
 
-<--## Grading scheme-->
+<!--## Grading scheme
 
-<--For the whole course
+For the whole course
 * 40% Assignments (3 assignments for my parts)
 * 30% Midterm exam
 * 30% Final exam
@@ -35,6 +35,5 @@ Scanning the QR code below will bring you to this repository.
 
 <p align="center">
   <img height="300" src="qr-code.png">
-</p>
--->
+</p>-->
 
