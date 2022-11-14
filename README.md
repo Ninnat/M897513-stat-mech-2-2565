@@ -20,7 +20,7 @@
 ||Th 22 Dec|Kinetic theory III-IV|
 ||Th 29 Dec (New year holiday?)|Kinetic theory V, Quantum statistical mechanics I|
 ||Th 5 Jan|Quantum statistical mechanics II-III|
-||Th 12 Jan|Kinetic theory IV|
+||Th 12 Jan|Quantum statistical mechanics IV|
 
 
 
