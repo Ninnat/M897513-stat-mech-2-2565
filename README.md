@@ -24,7 +24,7 @@
 
 
 
-## Grading scheme
+<~--## Grading scheme
 
 For the whole course
 * 40% Assignments (3 assignments for my parts)
@@ -36,3 +36,5 @@ Scanning the QR code below will bring you to this repository.
 <p align="center">
   <img height="300" src="qr-code.png">
 </p>
+-->
+
