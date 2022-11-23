@@ -18,7 +18,7 @@
 
 |Homework|Date| Topics |Lecture note|Resources|Additional resources|
 |:------:|:--:|:-------|:----------:|:--------:|:-------------------|
-|[HW1](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw1.pdf) OUT <br> **DUE 1 Dec**|Th 24 Nov <br> **Special place: Station room**|*Probability and statistics*: random variables and various ways to describe them; example distributions; Frequentists' and Bayesian views of probabilities; the weak law of large number (LOL) and the central limit theorem (CLT); large N limit; statistical entropy|
+|[HW1](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw1.pdf) OUT <br> **DUE 1 Dec**|Th 24 Nov <br> **Special place: Station room**|*Probability and statistics*: random variables and various ways to describe them; example distributions; frequentists' and Bayesian views of probabilities; the weak law of large number (LOL) and the central limit theorem (CLT); large N limit; statistical entropy|
 ||W 30 Nov|
 ||Th 1 Dec|Classical statistical mechanics I|
 ||W 7 Dec|
