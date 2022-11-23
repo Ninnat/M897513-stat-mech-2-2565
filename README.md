@@ -12,7 +12,7 @@
 ### Thai-language resources
 
 * *Foundation of Statistical Mechanics*, Surachate Limkumnerd (ดร. สุรเชษฐ์ ลิ้มกำเนิด), CU
-* Undergraduate statistical physics [playlist](https://www.youtube.com/playlist?list=PL0XuSm2_1reOH2Zsr0gKNA1uRCJ290eco) by Thiparat Chotibut (ดร. ธิปรัตน์ โชติบุตร), CU
+* [Undergrad statistical physics playlist](https://www.youtube.com/playlist?list=PL0XuSm2_1reOH2Zsr0gKNA1uRCJ290eco) by Thiparat Chotibut (ดร. ธิปรัตน์ โชติบุตร), CU
 
 ## Schedule
 
