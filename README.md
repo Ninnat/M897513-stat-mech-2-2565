@@ -17,8 +17,8 @@
 ## Schedule
 
 |Homework|Date| Topics |Lecture note|Resources|Additional resources|
-|:------:|:--:|:------:|:----------:|:--------:|:-------------------|
-|[HW1](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw1.pdf) OUT <br> **DUE 1 Dec**|Th 24 Nov **Special place: Station room**|Probability and statistics|
+|:------:|:--:|:-------|:----------:|:--------:|:-------------------|
+|[HW1](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw1.pdf) OUT <br> **DUE 1 Dec**|Th 24 Nov <br> **Special place: Station room**|Probability and statistics: Random variables and their properties, Example distributions, Relation between theoretical and empirical means: the weak law of large number, The large N limit (Stirling approximation) and the statistical entropy|
 ||W 30 Nov|
 ||Th 1 Dec|Classical statistical mechanics I|
 ||W 7 Dec|
