@@ -20,12 +20,19 @@ Thai-language resources
 |Homework|Date| Topics |Lecture note|Resources|Additional resources|
 |:------:|:--:|:------:|:----------:|:--------:|:-------------------|
 ||Th 24 Nov|Probability and statistics I-II|
+||W 30 Nov|
 ||Th 1 Dec|Classical statistical mechanics I-II|
+||W 7 Dec|
 ||Th 8 Dec|Classical statistical mechanics III-IV|
+||W 14 Dec|
 ||Th 15 Dec|Kinetic theory I-II|
+||Wed 21 Dec|
 ||Th 22 Dec|Kinetic theory III-IV|
-||Th 29 Dec (New year holiday?)|Kinetic theory V, Quantum statistical mechanics I|
+||Wed 28 Dec|
+||Th 29 Dec|Kinetic theory V, Quantum statistical mechanics I|
+||Wed 7 Jan|
 ||Th 5 Jan|Quantum statistical mechanics II-III|
+||Wed 11 Jan|
 ||Th 12 Jan|Quantum statistical mechanics IV|
 
 
