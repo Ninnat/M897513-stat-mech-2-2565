@@ -7,12 +7,12 @@
 
 * [Kar] *Statistical Mechanics of Particles*, Mehran Kardar (2007) 
 * [PB] *Statistical Mechanics*, R.K. Pathria and Paul D. Beale, 3rd ed. (2011) 
-* [Har] *Statistical Thermophysics*, Harry S. Robertson (2008): Good for an intersubjective view of statistical mechanics
+* [Har] *Statistical Thermophysics*, Harry S. Robertson (2008) [Bayesian perspective of statistical mechanics]
 
 ### Thai-language resources
 
-* *Foundation of Statistical Mechanics*, Surachate Limkumnerd (ดร. สุรเชษฐ์ ลิ้มกำเนิด), CU
 * [Undergrad statistical physics playlist](https://www.youtube.com/playlist?list=PL0XuSm2_1reOH2Zsr0gKNA1uRCJ290eco) by Thiparat Chotibut (ดร. ธิปรัตน์ โชติบุตร), CU
+* *Foundation of Statistical Mechanics*, Surachate Limkumnerd (ดร. สุรเชษฐ์ ลิ้มกำเนิด), CU
 
 ## Schedule
 
