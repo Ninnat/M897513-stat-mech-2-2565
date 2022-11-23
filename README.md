@@ -18,7 +18,7 @@
 
 |Homework|Date| Topics |Lecture note|Resources|Additional resources|
 |:------:|:--:|:------:|:----------:|:--------:|:-------------------|
-|[HW1](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw1.pdf) OUT <br> **DUE 1 Dec**|Th 24 Nov|Probability and statistics|
+|[HW1](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw1.pdf) OUT <br> **DUE 1 Dec**|Th 24 Nov **Special place: Station room**|Probability and statistics|
 ||W 30 Nov|
 ||Th 1 Dec|Classical statistical mechanics I|
 ||W 7 Dec|
