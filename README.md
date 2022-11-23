@@ -20,19 +20,19 @@
 |:------:|:--:|:------:|:----------:|:--------:|:-------------------|
 ||Th 24 Nov|Probability and statistics|
 ||W 30 Nov|
-||Th 1 Dec|Classical statistical mechanics I-II|
+||Th 1 Dec|Classical statistical mechanics I|
 ||W 7 Dec|
-||Th 8 Dec|Classical statistical mechanics III-IV|
+||Th 8 Dec|Classical statistical mechanics II|
 ||W 14 Dec|
-||Th 15 Dec|Kinetic theory I-II|
+||Th 15 Dec|Kinetic theory I|
 ||Wed 21 Dec|
-||Th 22 Dec|Kinetic theory III-IV|
+||Th 22 Dec|Kinetic theory II|
 ||Wed 28 Dec|
-||Th 29 Dec|Kinetic theory V, Quantum statistical mechanics I|
+||Th 29 Dec|Kinetic theory III, Quantum statistical mechanics I|
 ||Wed 7 Jan|
-||Th 5 Jan|Quantum statistical mechanics II-III|
+||Th 5 Jan|Quantum statistical mechanics II|
 ||Wed 11 Jan|
-||Th 12 Jan|Quantum statistical mechanics IV|
+||Th 12 Jan|Quantum statistical mechanics III|
 
 
 
