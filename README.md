@@ -5,9 +5,15 @@
 
 ## Resources
 
+I will mainly
+
 * [Kar] *Statistical Mechanics of Particles*, Mehran Kardar (2007) 
 * [PB] *Statistical Mechanics*, R.K. Pathria and Paul D. Beale, 3rd ed. (2011) 
 * [Har] *Statistical Thermophysics*, Harry S. Robertson (2008): Good for an intersubjective view of statistical mechanics
+
+Thai-language resources
+* *Foundation of Statistical Mechanics*, Surachate Limkumnerd (ดร. สุรเชษฐ์ ลิ้มกำเนิด), CU
+* Undergraduate statistical physics [playlist](https://www.youtube.com/playlist?list=PL0XuSm2_1reOH2Zsr0gKNA1uRCJ290eco) by Thiparat Chotibut (ดร. ธิปรัตน์ โชติบุตร), CU
 
 ## Schedule
 
@@ -24,12 +30,12 @@
 
 
 
-<!--## Grading scheme
-
-For the whole course
-* 40% Assignments (3 assignments for my parts)
-* 30% Midterm exam
-* 30% Final exam
+## Grading scheme
+|Task|Weight|
+|:------:|:--:|
+|Assignments|60%|
+|Midterm exam|20%|
+|Final exam|20%|
 
 Scanning the QR code below will bring you to this repository.
 
