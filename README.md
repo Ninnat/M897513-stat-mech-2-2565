@@ -2,6 +2,7 @@
 
 ## Announcements
 
+* *28 Nov*: We will have our first tutorial today (Monday) at 13:00-14:30. I traded the time slot with A. Sikarin only for this week because I might not be available on the afternoon of Dec 1.  
 
 ## Resources
 
