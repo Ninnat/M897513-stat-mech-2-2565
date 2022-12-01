@@ -25,15 +25,15 @@
 ||W 7 Dec|
 ||Th 8 Dec|Classical statistical mechanics II|
 ||W 14 Dec|
-||Th 15 Dec|Kinetic theory I|
+||Th 15 Dec|Classical statistical mechanics III|
 ||Wed 21 Dec|
-||Th 22 Dec|Kinetic theory II|
+||Th 22 Dec|Kinetic theory I|
 ||Wed 28 Dec|
-||Th 29 Dec|Kinetic theory III, Quantum statistical mechanics I|
+||Th 29 Dec|Kinetic theory II|
 ||Wed 7 Jan|
-||Th 5 Jan|Quantum statistical mechanics II|
+||Th 5 Jan|Quantum statistical mechanics I|
 ||Wed 11 Jan|
-||Th 12 Jan|Quantum statistical mechanics III|
+||Th 12 Jan|Quantum statistical mechanics II|
 
 
 
