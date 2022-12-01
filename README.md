@@ -23,7 +23,7 @@
 ||M 28 Nov <br> **Special Time**|Tutorial: Example probability calculations, Proof of WLOL
 ||Th 1 Dec|Proof of weak WLOL (continued); statistical entropy and typical sequences; classical dynamics and the notion of microstates||Kar 2|<br> Claude Shannons' [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf): One of the all-time classic papers that initiated an entire academic field by asking fundamental questions and solving them using the notion of entropy.
 ||W 7 Dec|
-||Th 8 Dec|*Classical statistical mechanics II*: Liouville's theorem, the microcanonical and canonical ensemble||Kar 4, PB  2-3
+||Th 8 Dec|*Classical statistical mechanics II*: Liouville's theorem, the microcanonical ensemble||Kar 4, PB  2-3
 ||W 14 Dec|
 ||Th 15 Dec|Classical statistical mechanics III||Kar 4, PB 4,6
 ||Wed 21 Dec|
