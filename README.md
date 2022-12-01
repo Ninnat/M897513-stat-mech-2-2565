@@ -19,8 +19,8 @@
 
 |Homework|Date| Topics |Lecture note|Resources|Additional resources|
 |:------:|:--:|:-------|:----------:|:--------:|:-------------------|
-|[HW1](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw1.pdf) OUT <br> **DUE 2 Dec**|Th 24 Nov <br> **Special place: Station room**|*Probability and statistics*: random variables; frequentists' and Bayesian views of probabilities; moment-and cumulant-generating functions;the weak law of large number (WLOL)|[Prob & Stat](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/Prob_beta.pdf) (incomplete?) |Kar 2
-||M 28 Nov <br> **Special Time**|**Tutorial**: Example probability calculations; proof of WLOL
+|[HW1](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw1.pdf) OUT <br> **DUE 2 Dec**|Th 24 Nov <br> **Special place: Station room**|*Probability and statistics*: random variables; frequentists' and Bayesian views of probabilities; moment-and cumulant-generating functions; the weak law of large number (WLOL) and the central limit theorem (CLT)|[Prob & Stat](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/Prob_beta.pdf) (incomplete?) |Kar 2
+||M 28 Nov <br> **Special Time**|**Tutorial**: Example probability calculations; Gaussian and binomial/multinomial distributions; proof of WLOL
 ||Th 1 Dec|Proof of weak WLOL (continued); statistical entropy and typical sequences; classical dynamics and the notion of microstates||Kar 2|<br> Claude Shannons' [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf): One of the all-time classic papers that initiated an entire academic field by asking fundamental questions and solving them using the notion of entropy.
 ||W 7 Dec|
 ||Th 8 Dec|*Classical statistical mechanics II*: Liouville's theorem, the microcanonical ensemble||Kar 4, PB  2-3
