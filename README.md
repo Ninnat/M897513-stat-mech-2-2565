@@ -23,7 +23,7 @@
 ||M 28 Nov <br> **Special Time**|Tutorial: Example probability calculations, Proof of WLOL
 ||Th 1 Dec|Proof of weak WLOL (continued); statistical entropy; classical dynamics and the notion of microstates
 ||W 7 Dec|
-||Th 8 Dec|Classical statistical mechanics II||Kar 4, PB  2-3
+||Th 8 Dec|*Classical statistical mechanics II*: Liouville's theorem, the microcanonical and canonical ensemble||Kar 4, PB  2-3
 ||W 14 Dec|
 ||Th 15 Dec|Classical statistical mechanics III||Kar 4, PB 4,6
 ||Wed 21 Dec|
