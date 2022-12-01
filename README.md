@@ -19,7 +19,7 @@
 
 |Homework|Date| Topics |Lecture note|Resources|Additional resources|
 |:------:|:--:|:-------|:----------:|:--------:|:-------------------|
-|[HW1](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw1.pdf) OUT <br> **DUE 1 Dec**|Th 24 Nov <br> **Special place: Station room**|*Probability and statistics*: random variables and various ways to describe them; frequentists' and Bayesian views of probabilities; the weak law of large number (WLOL) and the central limit theorem (CLT)|[Prob & Stat](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/Prob_beta.pdf) (incomplete?) |Kar 2
+|[HW1](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw1.pdf) OUT <br> **DUE 1 Dec**|Th 24 Nov <br> **Special place: Station room**|*Probability and statistics*: random variables; moment-and cumulant-generating functions; frequentists' and Bayesian views of probabilities; the weak law of large number (WLOL) and the central limit theorem (CLT)|[Prob & Stat](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/Prob_beta.pdf) (incomplete?) |Kar 2
 ||M 28 Nov <br> **Special Time**|Tutorial: Example probability calculations, Proof of WLOL
 ||Th 1 Dec|Proof of weak WLOL (continued); statistical entropy; classical dynamics and the notion of microstates
 ||W 7 Dec|
