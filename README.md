@@ -21,7 +21,7 @@
 |:------:|:--:|:-------|:----------:|:--------:|:-------------------|
 |[HW1](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw1.pdf) OUT <br> **DUE 1 Dec**|Th 24 Nov <br> **Special place: Station room**|*Probability and statistics*: random variables; moment-and cumulant-generating functions; frequentists' and Bayesian views of probabilities; the weak law of large number (WLOL) and the central limit theorem (CLT)|[Prob & Stat](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/Prob_beta.pdf) (incomplete?) |Kar 2
 ||M 28 Nov <br> **Special Time**|Tutorial: Example probability calculations, Proof of WLOL
-||Th 1 Dec|Proof of weak WLOL (continued); statistical entropy and typical sequences; classical dynamics and the notion of microstates|||The fact that typical sequences hog all the probability in the large $N$ limit allows one to compress data efficiently: Claude Shannons' [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
+||Th 1 Dec|Proof of weak WLOL (continued); statistical entropy and typical sequences; classical dynamics and the notion of microstates|||The fact that typical sequences hog all the probability allows one to compress data efficiently in the large $N$ limit: Claude Shannons' [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 ||W 7 Dec|
 ||Th 8 Dec|*Classical statistical mechanics II*: Liouville's theorem, the microcanonical and canonical ensemble||Kar 4, PB  2-3
 ||W 14 Dec|
