@@ -25,7 +25,7 @@
 ||W 7 Dec|
 ||Th 8 Dec|*Classical statistical mechanics I*: Liouville's theorem, the microcanonical ensemble and laws of thermodynamics|[Phase space](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/phase-space.pdf)|Kar 4.1-4.2, PB  2
 ||W 14 Dec|
-|HW2|Weeks of 12-25 Dec|**No class** (graduation ceremony and Winter school) <br> I will post lecture videos and assignments instead
+|HW2|Weeks of 12-25 Dec|**No class** (graduation ceremony and Winter school) <br> I will post lecture videos instead.
 |||*Classical statistical mechanics II*: laws of thermodynamics (cont.), two-level systems, classical gas and the Gibbs paradox||Kar 4.3-4.5, PB 1| You may need to review the concepts of thermodynamics potentials namely the enthalpy, the free energy, the Gibbs free energy and so on.
 |||*Classical statistical mechanics III*: the canonical ensemble, the partition function and thermodynamic variables in the canonical ensemble, energy fluctuations and equilivalence of emsembles||Kar 4.6-4.7, PB 3
 |||*Classical statistical mechanics IV*: the grand canonical ensemble||Kar 4.8-4.9, PB 4
