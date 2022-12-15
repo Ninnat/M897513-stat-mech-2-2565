@@ -23,12 +23,13 @@
 ||M 28 Nov <br> **Special Time**|**Tutorial**: Example probability calculations; Gaussian and binomial/multinomial distributions; proof of WLOL|||[Bayesian Versus Orthodox Statistics: Which Side Are You On?](http://www.lifesci.sussex.ac.uk/home/Zoltan_Dienes/Dienes%202011%20Bayes.pdf), Zoltan Dienes (The shark example)
 ||Th 1 Dec|*Probability and statistics II*: Proof of WLOL (continued); statistical entropy and typical sequences; classical dynamics and the notion of microstates||Kar 2|<br> [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf), Claude Shannon (One of the all-time classic scientific papers. it asks fundamental questions that define the field of information theory and solves them using the notion of entropy.)
 ||W 7 Dec|
-||Th 8 Dec|*Classical statistical mechanics I*: Liouville's theorem, the microcanonical ensemble and laws of thermodynamics||Kar 4, PB  2-3
+||Th 8 Dec|*Classical statistical mechanics I*: Liouville's theorem, the microcanonical ensemble and laws of thermodynamics||Kar 4, PB  2,1
 ||W 14 Dec|
-||Th 15 Dec|**No class?**
-||Wed 21 Dec|
-||Th 22 Dec|**No class?**|
-||W 28 Dec|
+||Weeks of 12-25 Dec|**No class** <br> I will post lecture videos and assignments instead
+|||*Classical statistical mechanics II*: laws of thermodynamics (cont.), two-level systems, classical gas and the Gibbs paradox|
+|||*Classical statistical mechanics III*: the canonical ensemble, the partition function and thermodynamic variables in the canonical ensemble, energy fluctuations and equilivalence of emsembles|
+|||*Classical statistical mechanics IV*: the grand canonical ensemble|
+|||*Kinetic theory I*|
 ||Th 29 Dec|Kinetic theory II|
 ||W 7 Jan|
 ||Th 5 Jan|Quantum statistical mechanics I|
