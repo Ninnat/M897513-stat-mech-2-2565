@@ -26,17 +26,18 @@
 ||Th 8 Dec|*Classical statistical mechanics I*: Liouville's theorem, the microcanonical ensemble and laws of thermodynamics|[Phase space](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/phase-space.pdf)|Kar 4.1-4.2, PB  2
 ||W 14 Dec|
 |HW2|Weeks of 12-25 Dec|**No class** (graduation ceremony and Winter school) <br> 
+||M 26 Dec <br> **Special time**|*Classical statistical mechanics II*: laws of thermodynamics (cont.), two-level systems, classical gas and the Gibbs paradox|[Microcanonical](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/Microcanonical.pdf)|Kar 4.3-4.5, PB 1|
+||Th 29 Dec|*Classical statistical mechanics III*: the canonical ensemble, the partition function and thermodynamic variables in the canonical ensemble, energy fluctuations and equilivalence of emsembles||Kar 4.6-4.7, PB 3|You may need to review the concepts of thermodynamics potentials namely the enthalpy, the free energy, the Gibbs free energy and so on.
+||M 7 Jan <br> **Special time**|*Classical statistical mechanics III*: the canonical ensemble, the partition function and thermodynamic variables in the canonical ensemble, energy fluctuations and equilivalence of emsembles||Kar 4.6-4.7, PB 3
+||Th 5 Jan||*Classical statistical mechanics IV*: the grand canonical ensemble||Kar 4.8-4.9, PB 4
+||W 11 Jan|
+||Th 12 Jan|Quantum statistical mechanics|
+
 <!--
 |||*Classical statistical mechanics II*: laws of thermodynamics (cont.), two-level systems, classical gas and the Gibbs paradox||Kar 4.3-4.5, PB 1| You may need to review the concepts of thermodynamics potentials namely the enthalpy, the free energy, the Gibbs free energy and so on.
 |||*Classical statistical mechanics III*: the canonical ensemble, the partition function and thermodynamic variables in the canonical ensemble, energy fluctuations and equilivalence of emsembles||Kar 4.6-4.7, PB 3
 |||*Classical statistical mechanics IV*: the grand canonical ensemble||Kar 4.8-4.9, PB 4
 |||*Kinetic theory I*: the BBGKY hierarchy, Boltzmann equation, the H-theorem and irreversibility||Kar 3.3-3.5|-->
-||M 26 Dec|*Classical statistical mechanics II*: laws of thermodynamics (cont.), two-level systems, classical gas and the Gibbs paradox|[Microcanonical](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/Microcanonical.pdf)|Kar 4.3-4.5, PB 1|
-||Th 29 Dec|Kinetic theory II|
-||W 7 Jan|
-||Th 5 Jan|Quantum statistical mechanics I|
-||W 11 Jan|
-||Th 12 Jan|Quantum statistical mechanics II|
 
 
 
