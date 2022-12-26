@@ -28,7 +28,7 @@
 |HW2|Weeks of 12-25 Dec|**No class** (graduation ceremony and Winter school) <br> 
 ||M 26 Dec <br> **Special time**|*Classical statistical mechanics II*: laws of thermodynamics (cont.), two-level systems, classical gas and the Gibbs paradox|[Microcanonical](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/Microcanonical.pdf)|Kar 4.3-4.5, PB 1|[The Gibbs paradox](https://www.damtp.cam.ac.uk/user/tong/statphys/jaynes.pdf), Edwin T. Jaynes
 ||W 28 Dec|
-||Th 29 Dec|*Classical statistical mechanics III*: the canonical ensemble, the partition function and thermodynamic variables in the canonical ensemble, energy fluctuations and equilivalence of emsembles||Kar 4.6-4.7, PB 3|You may need to review the concepts of thermodynamics potentials namely the enthalpy, the free energy, the Gibbs free energy and so on.
+||Th 29 Dec|*Classical statistical mechanics III*: the canonical ensemble, the partition function and thermodynamic variables in the canonical ensemble, energy fluctuations and equivalence of emsembles||Kar 4.6-4.7, PB 3|You may need to review the concepts of thermodynamics potentials namely the enthalpy, the free energy, the Gibbs free energy and so on.
 ||M 7 Jan <br> **Special time**|*Classical statistical mechanics IV*: the grand canonical ensemble||Kar 4.8-4.9, PB 4
 ||Th 5 Jan|Quantum statistical mechanics I
 ||W 11 Jan|
