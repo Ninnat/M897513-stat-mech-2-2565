@@ -30,7 +30,7 @@
 ||W 28 Dec|
 |[HW2](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw2.pdf) OUT <br> **DUE 5 Jan?**|Th 29 Dec|*Classical statistical mechanics III*: the canonical ensemble, the partition function and thermodynamic variables in the canonical ensemble, energy fluctuations and equivalence of emsembles||Kar 4.6-4.7, PB 3|You may need to review the concepts of thermodynamics potentials namely the enthalpy, the free energy, the Gibbs free energy and so on.
 ||M 7 Jan <br> **Special time**|*Classical statistical mechanics IV*: the grand canonical ensemble||Kar 4.8-4.9, PB 4
-|HW3|Th 5 Jan|Quantum statistical mechanics I
+|HW3 <br> DUE 12 Jan?| Th 5 Jan|Quantum statistical mechanics I
 ||W 11 Jan|
 ||Th 12 Jan|Quantum statistical mechanics II
 
