@@ -37,7 +37,7 @@
 <!--
 |||*Classical statistical mechanics II*: laws of thermodynamics (cont.), two-level systems, classical gas and the Gibbs paradox||Kar 4.3-4.5, PB 1| You may need to review the concepts of thermodynamics potentials namely the enthalpy, the free energy, the Gibbs free energy and so on.
 |||*Classical statistical mechanics III*: the canonical ensemble, the partition function and thermodynamic variables in the canonical ensemble, energy fluctuations and equilivalence of emsembles||Kar 4.6-4.7, PB 3
-|||*Classical statistical mechanics IV*: the grand canonical ensemble||Kar 4.8-4.9, PB 4
+|||*Classical statistical mechanics IV*: examples of calculations using the canonical ensemble, the grand canonical ensemble||Kar 4.8-4.9, PB 4
 |||*Kinetic theory I*: the BBGKY hierarchy, Boltzmann equation, the H-theorem and irreversibility||Kar 3.3-3.5|-->
 
 
