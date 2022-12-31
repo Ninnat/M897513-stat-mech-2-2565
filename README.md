@@ -2,6 +2,7 @@
 
 ## Announcements
 
+* *1 Jan*: [HW2](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw2.pdf) has been updated to include more instructions and guides to the problems.
 * *28 Nov*: We will have our first tutorial today (Monday) at 13:00-14:30. I traded the time slot with A. Sikarin only for this week because I might not be available on the afternoon of Nov 30.  
 
 ## Resources
@@ -28,7 +29,7 @@
 ||Weeks of 12-25 Dec|**No class** (graduation ceremony and Winter school) <br> 
 ||M 26 Dec <br> **Special time**|*Classical statistical mechanics II*: laws of thermodynamics (cont.), two-level systems, classical gas and the Gibbs paradox|[Microcanonical](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/Microcanonical.pdf)|Kar 4.3-4.5, PB 1|[The Gibbs paradox](https://www.damtp.cam.ac.uk/user/tong/statphys/jaynes.pdf), Edwin T. Jaynes
 ||W 28 Dec|
-|[HW2](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw2.pdf) OUT <br> **DUE 10 Jan**|Th 29 Dec|*Classical statistical mechanics III*: the canonical ensemble, the partition function and thermodynamic variables in the canonical ensemble, energy fluctuations and equivalence of emsembles|[Canonical + Gibbs paradox](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/Canonical.pdf)|Kar 4.6-4.7, PB 3|You may need to review the concepts of thermodynamics potentials namely the enthalpy, the free energy, the Gibbs free energy and so on.
+|[HW2V2](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw2.pdf) OUT <br> **DUE 10 Jan**|Th 29 Dec|*Classical statistical mechanics III*: the canonical ensemble, the partition function and thermodynamic variables in the canonical ensemble, energy fluctuations and equivalence of emsembles|[Canonical + Gibbs paradox](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/Canonical.pdf)|Kar 4.6-4.7, PB 3|You may need to review the concepts of thermodynamics potentials namely the enthalpy, the free energy, the Gibbs free energy and so on.
 ||W 4 Jan|
 |HW3 <br> DUE 17 Jan?| Th 5 Jan|*Classical statistical mechanics IV*: example calculations using the canonical ensemble, the grand canonical ensemble||Kar 4.8-4.9, PB 4
 ||M 9 Jan <br> **Special time**|*Quantum statistical mechanics I*
