@@ -22,7 +22,7 @@
 |[HW1](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw1.pdf) OUT <br> **DUE 2 Dec**|Th 24 Nov <br> **Special place: Station room**|*Probability and statistics I*: random variables; frequentists' and Bayesian views of probabilities; moment-and cumulant-generating functions; the weak law of large number (WLOL) and the central limit theorem (CLT)|[Prob and stat](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/StatV2.pdf) |Kar 2|
 ||M 28 Nov <br> **Special Time**|**Tutorial**: Example probability calculations; Gaussian and binomial/multinomial distributions; proof of WLOL|||[Bayesian Versus Orthodox Statistics: Which Side Are You On?](http://www.lifesci.sussex.ac.uk/home/Zoltan_Dienes/Dienes%202011%20Bayes.pdf), Zoltan Dienes (The shark example)
 ||Th 1 Dec|*Probability and statistics II*: Proof of WLOL (continued); statistical entropy and typical sequences; classical dynamics and the notion of microstates||Kar 2|<br> [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf), Claude E. Shannon (One of the all-time classic scientific papers. it asks fundamental questions that define the field of information theory and solves them using the notion of entropy.)
-||W 7 Dec|
+||W 7 Dec| **Tutorial**: HW1 discussion
 ||Th 8 Dec|*Classical statistical mechanics I*: Liouville's theorem, the microcanonical ensemble and laws of thermodynamics|[Phase space](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/phase-space.pdf)|Kar 4.1-4.2, PB  2
 ||W 14 Dec|
 ||Weeks of 12-25 Dec|**No class** (graduation ceremony and Winter school) <br> 
