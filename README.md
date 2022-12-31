@@ -2,7 +2,7 @@
 
 ## Announcements
 
-* *1 Jan*: [HW2](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw2.pdf) has been updated to include more instructions and guides to the problems.
+* *1 Jan*: [HW2](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw2.pdf) has been updated to include more instructions and guides to the problems. Also you will need to know the [equipartition theorem](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/equipartition.pdf) to do problem 3.
 * *28 Nov*: We will have our first tutorial today (Monday) at 13:00-14:30. I traded the time slot with A. Sikarin only for this week because I might not be available on the afternoon of Nov 30.  
 
 ## Resources
