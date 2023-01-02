@@ -34,7 +34,7 @@
 || Th 5 Jan|*Classical statistical mechanics IV*: the Gibbs canonical ensemble, the grand canonical ensemble, example calculations||Kar 4.8-4.9, PB 4
 |HW3 <br> **DUE 17 Jan**|M 9 Jan <br> **Special time**|*Quantum statistical mechanics I*: Breakdown of classical statistical mechanics, vibrations of a solid, blackbody radiations|| Kar 6.1-6.3
 ||W 11 Jan|
-||Th 12 Jan|*Quantum statistical mechanics II*||Kar 6.4-6.5, PB 5
+||Th 12 Jan|*Quantum statistical mechanics II*: the quantum formalism and density matrices||Kar 6.4-6.5, PB 5
 ||W 18 Jan|
 ||Midterm|
 
