@@ -20,7 +20,7 @@
 
 |Homework|Date| Topics |Lecture note|Resources|Additional resources|
 |:------:|:--:|:-------|:----------:|:--------:|:-------------------|
-|[HW1](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw1.pdf) OUT <br> **DUE 2 Dec**|Th 24 Nov <br> **Special place: Station room**|*Probability and statistics I*: random variables; frequentists' and Bayesian views of probabilities; moment-and cumulant-generating functions; the weak law of large number (WLOL) and the central limit theorem (CLT)|[Prob and stat](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/StatV2.pdf) |Kar 2|
+|[HW1](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw1.pdf) OUT <br> **DUE 2 Dec**|Th 24 Nov <br> **Special place: Station room**|*Probability and statistics I*: random variables; frequentists' and Bayesian views of probabilities; moment-and cumulant-generating functions; the weak law of large number (WLOL) and the central limit theorem (CLT)|[Prob](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/StatV2.pdf) |Kar 2|
 ||M 28 Nov <br> **Special Time**|**Tutorial 1**: Example probability calculations; Gaussian and binomial/multinomial distributions; proof of WLOL|||[Bayesian Versus Orthodox Statistics: Which Side Are You On?](http://www.lifesci.sussex.ac.uk/home/Zoltan_Dienes/Dienes%202011%20Bayes.pdf), Zoltan Dienes (The shark example)
 ||Th 1 Dec|*Probability and statistics II*: Proof of WLOL (continued); statistical entropy and typical sequences; classical dynamics and the notion of microstates||Kar 2|<br> [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf), Claude E. Shannon (One of the all-time classic scientific papers. it asks fundamental questions that define the field of information theory and solves them using the notion of entropy.)
 ||W 7 Dec| **Tutorial 2**: HW1 solutions
@@ -31,11 +31,11 @@
 ||W 28 Dec|
 |[HW2V2](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw2.pdf) OUT <br> **DUE 12 Jan**|Th 29 Dec|*Classical statistical mechanics III*: the canonical ensemble, the partition function and thermodynamic variables in the canonical ensemble, energy fluctuations and equivalence of emsembles|[Canonical + Gibbs paradox](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/Canonical.pdf)|Kar 4.6-4.7, PB 3|You may need to review the concepts of thermodynamics potentials namely the enthalpy, the free energy, the Gibbs free energy and so on.
 ||W 4 Jan|**Tutorial 3**: HW2 discussion, the [equipartition theorem](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/equipartition.pdf) 
-|| Th 5 Jan|*Classical statistical mechanics IV*: the Gibbs canonical ensemble, the grand canonical ensemble, example calculations|[More ensembles](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/more_can.pdf) (incomplete)|Kar 4.8-4.9, PB 4
+|| Th 5 Jan|*Classical statistical mechanics IV*: the Gibbs canonical ensemble, the grand canonical ensemble, example calculations|[More canonical](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/more_can.pdf) (incomplete)|Kar 4.8-4.9, PB 4
 ||W 11 Jan|
-|HW3 <br> **DUE 19 Jan**|Th 12 Jan|*Quantum statistical mechanics I*: Breakdown of classical statistical mechanics, vibrations of a solid, blackbody radiations|[Breakdown of CSM](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/qsm1.pdf)| Kar 6.1-6.3
+|HW3 <br> **DUE 19 Jan**|Th 12 Jan|*Quantum statistical mechanics I*: Breakdown of classical statistical mechanics, heat capacity of a diatomic ideal gas, vibrations of a solid|[Breakdown of CSM](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/qsm1.pdf)| Kar 6.1-6.3
 ||W 18 Jan|
-||Th 19 Jan|*Quantum statistical mechanics II*: the quantum formalism and density matrices||Kar 6.4-6.5, PB 5
+||Th 19 Jan|*Quantum statistical mechanics II*: Blackbody radiations, the quantum formalism and density matrices||Kar 6.4-6.5, PB 5
 ||Midterm|
 
 <!--
