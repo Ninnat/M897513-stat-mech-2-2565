@@ -31,8 +31,8 @@
 ||W 28 Dec|
 |[HW2V2](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw2.pdf) OUT <br> **DUE 10 Jan**|Th 29 Dec|*Classical statistical mechanics III*: the canonical ensemble, the partition function and thermodynamic variables in the canonical ensemble, energy fluctuations and equivalence of emsembles|[Canonical + Gibbs paradox](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/Canonical.pdf)|Kar 4.6-4.7, PB 3|You may need to review the concepts of thermodynamics potentials namely the enthalpy, the free energy, the Gibbs free energy and so on.
 ||W 4 Jan|**Tutorial 3**: HW2 discussion, the [equipartition theorem](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/equipartition.pdf) 
-|| Th 5 Jan|*Classical statistical mechanics IV*: the Gibbs canonical ensemble, the grand canonical ensemble, example calculations||Kar 4.8-4.9, PB 4
-|HW3 <br> **DUE 17 Jan**|M 9 Jan <br> **Special time**|*Quantum statistical mechanics I*: Breakdown of classical statistical mechanics, vibrations of a solid, blackbody radiations|| Kar 6.1-6.3
+|| Th 5 Jan|*Classical statistical mechanics IV*: the Gibbs canonical ensemble, the grand canonical ensemble, example calculations|[More ensembles](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/more_can.pdf) (incomplete)|Kar 4.8-4.9, PB 4
+|HW3 <br> **DUE 17 Jan**|M 9 Jan <br> **Special time**|*Quantum statistical mechanics I*: Breakdown of classical statistical mechanics, vibrations of a solid, blackbody radiations|[Breakdown of CSM](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/qsm1.pdf)| Kar 6.1-6.3
 ||W 11 Jan|**Tutorial 4**: HW2 solutions
 ||Th 12 Jan|*Quantum statistical mechanics II*: the quantum formalism and density matrices||Kar 6.4-6.5, PB 5
 ||W 18 Jan|**Tutorial 5**: HW3 solutions
