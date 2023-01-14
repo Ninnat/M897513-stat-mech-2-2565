@@ -33,7 +33,7 @@
 ||W 4 Jan|**Tutorial 3**: HW2 discussion, the [equipartition theorem](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/equipartition.pdf) 
 || Th 5 Jan|*Classical statistical mechanics IV*: the Gibbs canonical ensemble, the grand canonical ensemble, example calculations|[More canonical](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/more_can.pdf) (incomplete)|Kar 4.8-4.9, PB 4
 ||W 11 Jan|
-|[HW3](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw3v2.pdf) <br> **DUE ?**|Th 12 Jan|*Quantum statistical mechanics I*: Breakdown of classical statistical mechanics, heat capacity of a diatomic ideal gas, vibrations of a solid|[Breakdown of CSM](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/qsm1.pdf)| Kar 6.1-6.3
+|[HW3](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw3v2.pdf) OUT <br> **DUE ?**|Th 12 Jan|*Quantum statistical mechanics I*: Breakdown of classical statistical mechanics, heat capacity of a diatomic ideal gas, vibrations of a solid|[Breakdown of CSM](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/qsm1.pdf)| Kar 6.1-6.3
 ||W 18 Jan|
 ||Th 19 Jan|*Quantum statistical mechanics II*: Blackbody radiations, the quantum formalism and density matrices||Kar 6.4-6.5, PB 5
 ||Midterm|
