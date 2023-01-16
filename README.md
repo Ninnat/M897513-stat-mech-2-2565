@@ -1,7 +1,7 @@
 # M897513 Equilibrium Statistical Mechanics and Kinetic Theory (1st half)
 
 ## Announcements
-* *16 Jan*: We will have our last class this Thursday 19 Jan. As discussed today, HW3 will be due some time in the next week (let's say Tuesday 24), and I will give out the take-home exam on Jan 30 to be due Feb 1.
+* *16 Jan*: We will have our last class this Thursday 19 Jan. As discussed today, HW3 will be due some time next week (let's say Tuesday 24) to leave you more time to prepare for the seminar presentation this week. Then I will give out the take-home exam on Jan 30 to be due Feb 1.
 * *1 Jan*: [HW2](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw2.pdf) has been updated to include more instructions and guides to the problems. Also you will need to know the [equipartition theorem](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/equipartition.pdf) to do problem 3.
 * *28 Nov*: We will have our first tutorial today (Monday) at 13:00-14:30. I traded the time slot with A. Sikarin only for this week because I might not be available on the afternoon of Nov 30.  
 
@@ -33,8 +33,8 @@
 ||W 4 Jan|**Tutorial 3**: HW2 discussion, the [equipartition theorem](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/equipartition.pdf) 
 || Th 5 Jan|*Classical statistical mechanics IV*: the Gibbs canonical ensemble, the grand canonical ensemble, example calculations|[More canonical](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/more_can.pdf) (incomplete)|Kar 4.8-4.9, PB 4
 ||W 11 Jan|
-|[HW3](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw3v2.pdf) OUT <br> **DUE ?**|Th 12 Jan|*Quantum statistical mechanics I*: Breakdown of classical statistical mechanics, heat capacity of a diatomic ideal gas, vibrations of a solid|[Breakdown of CSM](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/qsm1.pdf)| Kar 6.1-6.3
-||W 18 Jan|
+|[HW3](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw3v2.pdf) OUT <br> **DUE 24**|Th 12 Jan|*Quantum statistical mechanics I*: Breakdown of classical statistical mechanics, heat capacity of a diatomic ideal gas, vibrations of a solid|[Breakdown of CSM](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/qsm1.pdf)| Kar 6.1-6.3
+||M 16 Jan <br> **Special time** 12:30-14:00|**Tutorial 4**: HW2 solutions
 ||Th 19 Jan|*Quantum statistical mechanics II*: Blackbody radiations, the quantum formalism and density matrices||Kar 6.4-6.5, PB 5
 ||Midterm|
 
