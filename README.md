@@ -1,7 +1,7 @@
 # M897513 Equilibrium Statistical Mechanics and Kinetic Theory (1st half)
 
 ## Announcements
-
+* *16 Jan*: We will have our last class this Thursday 19 Jan. As discussed today, HW3 will be due some time in the next week (let's say Tuesday 24), and I will give out the take-home exam on Jan 30 to be due Feb 1.
 * *1 Jan*: [HW2](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw2.pdf) has been updated to include more instructions and guides to the problems. Also you will need to know the [equipartition theorem](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/equipartition.pdf) to do problem 3.
 * *28 Nov*: We will have our first tutorial today (Monday) at 13:00-14:30. I traded the time slot with A. Sikarin only for this week because I might not be available on the afternoon of Nov 30.  
 
