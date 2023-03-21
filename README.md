@@ -36,7 +36,7 @@
 |[HW3](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/assignments/hw3v2.pdf) OUT <br> **DUE 24 Jan**|Th 12 Jan|*Quantum statistical mechanics I*: Breakdown of classical statistical mechanics, heat capacity of a diatomic ideal gas, vibrations of a solid|[Breakdown of CSM](https://github.com/Ninnat/M897513-stat-mech-2-2565/blob/main/lecture-notes/qsm1.pdf)| Kar 6.1-6.3
 ||M 16 Jan <br> **Special time** 12:30-14:00|**Tutorial 4**: HW2 solutions
 ||Th 19 Jan|*Quantum statistical mechanics II*: Blackbody radiations, the quantum formalism and density matrices||Kar 6.4-6.5, PB 5
-||Midterm|
+|Midterm OUT <br> **DUE 1 Feb**|M Jan 30|
 
 <!--
 |||*Classical statistical mechanics II*: laws of thermodynamics (cont.), two-level systems, classical gas and the Gibbs paradox||Kar 4.3-4.5, PB 1| You may need to review the concepts of thermodynamics potentials namely the enthalpy, the free energy, the Gibbs free energy and so on.
